@@ -23,10 +23,10 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/j7xelte-common/proprietary/vendor/firmware/setfile_3p3.bin:system/vendor/firmware/setfile_3p3.bin \
   vendor/samsung/j7xelte-common/proprietary/vendor/firmware/setfile_5e3.bin:system/vendor/firmware/setfile_5e3.bin \
   vendor/samsung/j7xelte-common/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
-  vendor/samsung/j7xelte-common/proprietary/vendor/firmware/nfc/sec_s3nrn80_firmware.bin:system/vendor/firmware/nfc/sec_s3nrn80_firmware.bin \
+  vendor/samsung/j7xelte-common/proprietary/vendor/firmware/nfc/sec_s3nrn80_firmware.bin:system/vendor/firmware/nfc/sec_s3nrn80_firmware.bin\
   vendor/samsung/j7xelte-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-  vendor/samsung/j7xelte-common/proprietary/sbin/cbd:root/sbin/cbd
-  vendor/samsung/j7xelte-common/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin\
+  vendor/samsung/j7xelte-common/proprietary/sbin/cbd:root/sbin/cbd \
+  vendor/samsung/j7xelte-common/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
   vendor/samsung/j7xelte-common/proprietary/etc/wifi/bcmdhd_apsta.bin_3s:system/etc/wifi/bcmdhd_apsta.bin_3s \
   vendor/samsung/j7xelte-common/proprietary/etc/wifi/bcmdhd_mfg.bin:system/etc/wifi/bcmdhd_mfg.bin \
   vendor/samsung/j7xelte-common/proprietary/etc/wifi/bcmdhd_mfg.bin_3s:system/etc/wifi/bcmdhd_mfg.bin_3s \
